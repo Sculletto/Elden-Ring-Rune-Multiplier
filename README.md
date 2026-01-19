@@ -1,4 +1,5 @@
 Elden Ring – Rune Reward Multiplier (Smithbox)
+
 This script allows anyone to modify rune rewards for all enemies in Elden Ring by applying a multiplier to existing values. It is built specifically to work with Smithbox and its CSV export/import features.
 IMPORTANT: - Always back up your save files and regulation.bin before making changes. - I am not responsible for corrupted files. - This script ONLY edits rune reward values using a multiplier and does not modify any other data. - Because it relies on Smithbox exports, this should continue working through updates as long as Smithbox itself is updated.
 REQUIREMENTS
